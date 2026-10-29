@@ -1,35 +1,52 @@
-# My Code of Conduct: [ACM Code of Ethics and Professional Conduct](https://ethics.acm.org/)
+# Hey, I'm Sebastian! 👋
 
+I'm a software engineer who loves turning complex problems into working systems. I enjoy the space where architecture meets implementation, where assumptions get challenged, and where good ideas become useful software.
 
-# Manifesto for building tech teams
+My background spans distributed systems, production platforms, and developer tooling. I care about building things that are not only fast and reliable, but also understandable and maintainable.
 
-We prize the expertise and mindset of craftsmanship
-to build mastery in our craft while helping others to build theirs.
+### 🔧 What keeps me busy
 
+I work on production systems and engineering tools that help teams build, test, and operate software.
 
-Through our work we have come to value:
+Outside of work, I follow my curiosity into new territory. Lately, that's meant building and experimenting with:
 
-We put teams before profits
-We incentivize behavior, not performance
-We build software to learn
-We seek to create value, not just to amass output
+- **Distributed systems & storage** — Durability, concurrency, recovery, and performance.
+- **Reliable automation** — Making decisions explainable, verifiable, and recoverable.
+- **Systems programming** — Exploring Rust, and thinking about abstractions, correctness, and efficiency.
+- **Developer experience** — Making complex engineering tasks a little less painful.
 
+Java, Rust, and Go are my primary tools, but the interesting problems matter more than the language.
 
-In other words, while it's important to meet business figures,
-we also value the potential of people to make this happen.
+### 🧪 Curious by default
 
+I like building things to understand how they work.
 
-<!--
-**sekaiser/sekaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My favorite experiments usually start with a simple question, lead to a prototype, and end with a few more questions than I started with.
 
-Here are some ideas to get you started:
+**Build. Measure. Question assumptions. Learn. Repeat.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy writing about engineering ideas, unexpected findings, and the trade-offs behind technical decisions.
+
+### 🤖 AI is changing how I build
+
+For over a year, I've been exploring what happens when AI becomes an active part of the engineering process rather than just another productivity tool.
+
+I use it extensively to explore architectures, challenge assumptions, investigate unfamiliar problems, write and review code, and accelerate experimentation.
+
+What fascinates me most isn't simply writing code faster. It's how AI can expand what an individual or a small team can explore, build, and understand.
+
+But faster doesn't automatically mean better. **Engineering judgment, evidence, and accountability still matter.** Perhaps more than ever.
+
+### 🤝 Engineering is a team sport
+
+The best part of engineering is often the people you get to learn from and build alongside.
+
+I value curiosity over certainty, thoughtful disagreements over easy consensus, and teams where sharing knowledge is as natural as writing code.
+
+I believe great engineering isn't just about the systems we build. It's also about making the people around us more capable of building what comes next.
+
+---
+
+*Still curious. Still experimenting. Still building.*
+
+[ACM Code of Ethics and Professional Conduct](https://ethics.acm.org/)
