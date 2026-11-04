@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72c2ddee-25d9-464a-ac1f-fc4c2958092f" />
+<img width="1920" height="1080" alt="midnight-systems-guild" src="https://github.com/user-attachments/assets/0d48c21f-8a89-4e2a-ade7-d0efe927ea43" />
 
 # Hey, I'm Sebastian! 👋
 
