@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72c2ddee-25d9-464a-ac1f-fc4c2958092f" />
+
 # Hey, I'm Sebastian! 👋
 
 I'm a software engineer who loves turning complex problems into working systems. I enjoy the space where architecture meets implementation, where assumptions get challenged, and where good ideas become useful software.
